@@ -1,16 +1,49 @@
-### Hi there 👋
+# Hi, I'm Julian Otero
 
-<!--
-**jd-otero/jd-otero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- A short sentence that can  describe who you are -->
 
-Here are some ideas to get you started:
+<!-- All of your education background -->
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bachelor's: Mechanical Engineer from [Universidad de Los Andes](https://uniandes.edu.co/)
+- Master's: Industrial Engineering student at [Universidad de Los Andes](https://uniandes.edu.co/)
+
+<!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
+## Affiliations
+
+- Member of [BIOMAC](https://github.com/biomac-lab)
+
+
+<img width="180" alt="Logo_Short" src="https://user-images.githubusercontent.com/73041689/218108873-dd5daaaa-2874-43d3-a089-8403dda3e18f.png">
+
+
+<!-- Showing what you work on, lets other collaborate with you -->
+## Research
+
+<!-- ### Previous:
+
+- Previous research topic #1
+- Previous research topic #2 -->
+
+### Current:
+
+- Dengue dynamics in urban areas.
+- Agent Based Models (ABM) for Dengue simulation.
+
+<!-- Topics that you haven't research yet but are intriguing to you -->
+<!-- ### Future interests:
+
+- Future interests research topic #1
+- Future interests research topic #2
+ -->
+
+<!-- Because we are humans before researchers -->
+## Hobbies
+
+- Foodie
+
+
+## Contact
+
+You can reach me at <jd.otero10@uniandes.edu.co>
+
